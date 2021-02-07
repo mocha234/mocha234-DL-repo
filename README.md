@@ -14,7 +14,7 @@ I'm still learning tho, feel free to give comment or feedback if any via Discord
 - [Cassava Leaf Disease Classification](https://www.kaggle.com/nelsonwongisme/for-dummies-tf-keras-data-augmentation) --> Identify the type of disease present on a Cassava Leaf image. [( a Kaggle Competition)](https://www.kaggle.com/c/cassava-leaf-disease-classification)
 
 ### Object Detection
-- [Face Detection with Haar Cascade](https://www.kaggle.com/nelsonwongisme/for-dummies-tf-keras-data-augmentation) --> Detect Hyun Bin & Son Ye Jin's faces with Haar Cascade approach.
+- [Face Detection with Haar Cascade](https://github.com/mocha234/mocha234-DL-repo/blob/main/ObjectDetection/HaarCascade/DetectFace%20with%20Haar%20Cascade.ipynb) --> Detect Hyun Bin & Son Ye Jin's faces with Haar Cascade approach.
 
 ###  Segmentation
 
