@@ -8,6 +8,13 @@ I'm still learning tho, feel free to give comment or feedback if any via Discord
 
 ## Notebooks
 
+### Classification 
 - [Cat vs Dog Classfication](https://github.com/mocha234/mocha234-DL-repo/blob/main/Cat-vs-Dog/CatvsDog-Classification.ipynb) --> Classifying if image consist cat or dog.
 - [Rock-Paper-Scissor](https://github.com/mocha234/mocha234-DL-repo/blob/main/RockPaperScissors/RockPaperScissors-Classification/RockPaperScissors-Classification.ipynb) --> Identify hand sign(whether it is Rock, Paper or Scissor) shown.
 - [Cassava Leaf Disease Classification](https://www.kaggle.com/nelsonwongisme/for-dummies-tf-keras-data-augmentation) --> Identify the type of disease present on a Cassava Leaf image. [( a Kaggle Competition)](https://www.kaggle.com/c/cassava-leaf-disease-classification)
+
+### Object Detection
+- [Face Detection with Haar Cascade](https://www.kaggle.com/nelsonwongisme/for-dummies-tf-keras-data-augmentation) --> Detect Hyun Bin & Son Ye Jin's faces with Haar Cascade approach.
+
+###  Segmentation
+
