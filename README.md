@@ -18,3 +18,6 @@ I'm still learning tho, feel free to give comment or feedback if any via Discord
 
 ###  Segmentation
 
+### Genetic Algorithm
+- [Genetic Algorithm with Python](https://github.com/mocha234/mocha234-DL-repo/blob/main/GeneticAlgorithm/GA_with_Python.ipynb) --> Understanding Genetic Algorithm with Python(without libraries)
+
