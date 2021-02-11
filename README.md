@@ -20,4 +20,9 @@ I'm still learning tho, feel free to give comment or feedback if any via Discord
 
 ### Genetic Algorithm
 - [Genetic Algorithm with Python](https://github.com/mocha234/mocha234-DL-repo/blob/main/GeneticAlgorithm/GA_with_Python.ipynb) --> Understanding Genetic Algorithm with Python(without libraries)
+- Comparing Hyper-parameter Tuning using Cross Validation Grid Search and Genetic Algorithm with PyGAD
+	Goal: As per the title. Here, I will build a prediction model with Deep Learning approach with Tensorflow's Keras.
+	- [Predicting Student Performance(Empirically)](https://github.com/mocha234/mocha234-DL-repo/blob/main/GeneticAlgorithm/StudentPerformance_with_NN.ipynb) --> Empirically tune hyper-parameters
+	- [Predicting Student Performance(SKLearn's GridSearchCV)](https://github.com/mocha234/mocha234-DL-repo/blob/main/GeneticAlgorithm/StudentPerformance_GridSearchCrossValidation.ipynb) --> Tune hyper-parameters with Sci-Kit Learn's GridSearchCV
+	- [Predicting Student Performance(Genetic Algorithm with PyGAD)](https://github.com/mocha234/mocha234-DL-repo/blob/main/GeneticAlgorithm/StudentPerformance_PyGAD.ipynb) --> Tune hyper-parameters with GA using PyGAD
 
