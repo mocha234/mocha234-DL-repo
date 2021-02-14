@@ -25,4 +25,5 @@ I'm still learning tho, feel free to give comment or feedback if any via Discord
 	- [Predicting Student Performance(Empirically)](https://github.com/mocha234/mocha234-DL-repo/blob/main/GeneticAlgorithm/StudentPerformance_with_NN.ipynb) --> Empirically tune hyper-parameters
 	- [Predicting Student Performance(SKLearn's GridSearchCV)](https://github.com/mocha234/mocha234-DL-repo/blob/main/GeneticAlgorithm/StudentPerformance_GridSearchCrossValidation.ipynb) --> Tune hyper-parameters with Sci-Kit Learn's GridSearchCV
 	- [Predicting Student Performance(Genetic Algorithm with PyGAD)](https://github.com/mocha234/mocha234-DL-repo/blob/main/GeneticAlgorithm/StudentPerformance_PyGAD.ipynb) --> Tune hyper-parameters with GA using PyGAD
-
+	- [Predicting Student Performance(Genetic Algorithm with Trained Model + PyGAD)](https://github.com/mocha234/mocha234-DL-repo/blob/main/GeneticAlgorithm/StudentPerformance_Tensorflow_PyGAD.ipynb) --> Tune GA hyper-parameters using PyGAD of a trained Model
+	- [Some Findings, Comparison, Summary](https://github.com/mocha234/mocha234-DL-repo/blob/main/GeneticAlgorithm/GA_summary.ipynb) --> Summary of this learning "series"
